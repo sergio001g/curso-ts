@@ -2,5 +2,4 @@
 curso ts
 a
 a
-a
 
