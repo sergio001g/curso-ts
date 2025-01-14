@@ -10,6 +10,5 @@ z
 z
 z
 
-z
 z# curso-ts
 curso ts
